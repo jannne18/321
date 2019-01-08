@@ -6,5 +6,5 @@ Manager Script
 
 
 
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-MANAGER-MOD/master/instala.sh; chmod +x instala.sh; ./instala.sh
+apt-get update -y; apt-get upgrade -y; wget https://github.com/jannne18/321/blob/master/instala.sh; chmod +x instala.sh; ./instala.sh
 
