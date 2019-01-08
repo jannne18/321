@@ -64,6 +64,7 @@ echo "cd /etc/adm-lite && bash ./menu" > /bin/adm
 chmod +x /bin/menu
 chmod +x /bin/adm
 cd /etc/adm-lite
+
 touch /etc/adm-lite/index.html
 wget -i $HOME/lista -o /dev/null
 echo -e "${cor[3]} $(source trans -b pt:${id} "Agora Sera Instalado As Dependencias")"
